@@ -1,0 +1,6 @@
+{
+  "name": "NIVARA - Indian Antarctic Station Intelligence System",
+  "description": "Remote monitoring, 3D digital twin, and operational intelligence platform for Indian Antarctic research stations (Maitri & Bharati).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
